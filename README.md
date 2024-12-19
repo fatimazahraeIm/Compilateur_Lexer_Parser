@@ -26,4 +26,4 @@ Pour bien comprendre les tokens utilisés et les règles de grammaire définies 
 
 ## Démonstration Vidéo
 
-Pour une démonstration complète du fonctionnement du compilateur, veuillez regarder la vidéo suivante : [Lien vers la vidéo de démonstration](.demoVideo.mp4)# Compilateur_Lexer_Parser
+Pour une démonstration complète du fonctionnement du compilateur, veuillez regarder la vidéo suivante : [Lien vers la vidéo de démonstration](./DemoVideo.mp4)# Compilateur_Lexer_Parser
